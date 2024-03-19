@@ -236,7 +236,7 @@ section {
 }
 .header-content .right-header {
   background-color: var(--color-primary);
-  padding: 35px 10% 5%;
+  padding: 50px 10% 5%;
   width: 80%;
   justify-self: center;
   margin: 2%;
@@ -245,7 +245,7 @@ section {
   border-radius: 0%;
   margin-bottom: 92px;
   box-shadow: 0px 0px 20px 0.1px #152b80;
-  font-size: 124%;
+  font-size: 100%;
   align-self: center;
 }
 .header-content .right-header h1 {
